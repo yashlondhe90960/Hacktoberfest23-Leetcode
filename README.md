@@ -7,8 +7,7 @@ All code that i have solved on various platforms of cpp.
 
  - [leetcode](https://leetcode.com/AbhishekBhonde/)
  - [codechef](https://www.codechef.com/users/abhishek_765)
- 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -17,51 +16,17 @@ All code that i have solved on various platforms of cpp.
 		"width=device-width, initial-scale=1.0">
 	<title>Text Color Animation</title>
 
-	<style>
-		body {
-			margin: 0;
-			padding: 0;
-		}
-
-		div {
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
-		}
-
-		h2 {
-			font-size: 5em;
-			font-family: serif;
-			color: transparent;
-			text-align: center;
-			animation: effect 2s linear infinite;
-			\
-		}
-
-		@keyframes effect {
-			0% {
-				background: linear-gradient(
-						#008000, #00FF00);
-				-webkit-background-clip: text;
-			}
-
-			100% {
-				background: linear-gradient(
-						#3CE7D7, #000FFF);
-				-webkit-background-clip: text;
-			}
-		}
-	</style>
+	
 </head>
 
 <body>
 	<div>
-		<h2>Leetcode Problems</h2>
+		<h2>GeeksforGeeks</h2>
 	</div>
 </body>
 
 </html>
+
 
 
 |Problem No   | Name of the Problem  | Difficulty Level  |  Solution |   
