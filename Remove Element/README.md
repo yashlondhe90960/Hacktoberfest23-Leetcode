@@ -1,3 +1,6 @@
+#Problem Statement
+
+
 Given an integer array ```nums``` and an integer ``` val```, remove all occurrences of ``` val ``` in ```nums``` in-place. 
 The relative order of the elements may be changed.
 
@@ -52,5 +55,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 Constraints:
 
 ```0 <= nums.length <= 100```
+
 ```0 <= nums[i] <= 50```
+
 ```0 <= val <= 100```
