@@ -15,7 +15,7 @@ All code that i have solved on various platforms of cpp.
 |---|---|---|---|
 |   9 | Palindrome Number | Easy | [Solution](https://github.com/abhishekbhonde/Leetcode-Codechef/tree/main/Palindrome%20Number)  |   
 | 1 | Two Sum  |  Easy |   [Solution](https://github.com/abhishekbhonde/Leetcode-Codechef/tree/main/Two%20Sum) |
-|   |   |   |   |   
+| 27 |  Remove Elemetn |  Easy | [Solution](https://github.com/abhishekbhonde/Leetcode-Codechef/tree/main/Remove%20Element)  |   
 
 
 
