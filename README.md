@@ -3,13 +3,13 @@
 All code that i have solved on various platforms of cpp.
 
 
-## My Accounts
+# My Accounts
 
  - [leetcode](https://leetcode.com/AbhishekBhonde/)
  - [codechef](https://www.codechef.com/users/abhishek_765)
 
  
- #Leetcode
+ # Leetcode
  
 |Problem No   | Name of the Problem  | Difficulty Level  |  Solution |   
 |---|---|---|---|
@@ -19,7 +19,7 @@ All code that i have solved on various platforms of cpp.
 
 
 
-#Codechef
+# Codechef
 
 
  
