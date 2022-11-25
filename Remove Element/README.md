@@ -1,4 +1,4 @@
-#Problem Statement
+# Problem Statement
 
 
 Given an integer array ```nums``` and an integer ``` val```, remove all occurrences of ``` val ``` in ```nums``` in-place. 
@@ -14,7 +14,7 @@ Return k after placing the final result in the first k slots of nums.
 
 Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
 
-##Custom Judge:
+## Custom Judge:
 
 The judge will test your solution with the following code:
 ```
@@ -31,7 +31,7 @@ for (int i = 0; i < actualLength; i++) {
     assert nums[i] == expectedNums[i];
 }
 ```
-If all assertions pass, then your solution will be ##accepted.
+If all assertions pass, then your solution will be ## accepted.
 
 Example 1:
 ```
