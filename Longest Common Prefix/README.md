@@ -9,9 +9,17 @@ If there is no common prefix, return an empty string "".
 
  
 
-Example 1:
+## Example 1:
 ```
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 
+```
+## Constraints:
+
+
+```
+1 <= strs.length <= 200
+0 <= strs[i].length <= 200
+strs[i] 
 ```
