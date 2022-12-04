@@ -1,6 +1,6 @@
 # CPP
 
-All code that i have solved on various platforms of cpp.
+All programs that i have solved on various platforms. 
 
 
 # My Accounts
