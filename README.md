@@ -1,6 +1,6 @@
 # CPP
 
-All programs that i have solved on various platforms. 
+
 
 
 
@@ -8,7 +8,7 @@ All programs that i have solved on various platforms.
 
 
  
- # Leetcode
+ ## Leetcode
  
 |Problem No   | Name of the Problem  | Difficulty Level  |  Solution |   
 |---|---|---|---|
@@ -19,12 +19,3 @@ All programs that i have solved on various platforms.
 |1009| Complement of Base 10 Integer| Easy | [Solution](https://github.com/abhishekbhonde/Leetcode-Codechef/tree/main/Complement%20of%20Base%2010%20Integer) |
 | 2 | Add Two Numbers| Medium |[Solution](https://github.com/abhishekbhonde/Leetcode-Codechef/blob/main/Add%20Two%20Number/Solution.cpp) | | 
 
-# Codechef
-
-
- 
-|Problem No   | Name of the Problem  | Difficulty Level  |  Solution |   
-|---|---|---|---|
-|  |  |   |   |   
-|   |   |   |   |  
-|   |   |   |   |   
