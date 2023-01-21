@@ -3,10 +3,9 @@
 All programs that i have solved on various platforms. 
 
 
-# My Accounts
 
- - [leetcode](https://leetcode.com/AbhishekBhonde/)
- - [codechef](https://www.codechef.com/users/abhishek_765)
+![a31e7808-1db0-46ce-aee6-5e1e6749d6fe](https://user-images.githubusercontent.com/113115756/213870874-412fcd91-43e0-44fd-bd2d-c2bb0bca654d.gif)
+
 
  
  # Leetcode
