@@ -21,3 +21,4 @@
 |139|Word Break|Medium|[Solution](https://leetcode.com/problems/word-break/submissions/882440313/)|
 |3|Longest Substring Without Repeating Characters|Medium|[Solution](https://github.com/abhishekbhonde/Leetcode-Group/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)|
 |20|Valid Parentheses|Easy|[Solution](https://github.com/abhishekbhonde/Leetcode-Group/tree/main/Valid%20Parentheses)|
+|21|Merge Two Sorted Lists|Easy|[Solution](https://github.com/abhishekbhonde/Leetcode-Group/tree/main/Merge%20Two%20Sorted%20Lists)|
