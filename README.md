@@ -25,3 +25,4 @@
 |88|Merge Sorted Array|Easy|[Solution](https://github.com/abhishekbhonde/Leetcode-Group/tree/main/Merge%20Sorted%20Array)|
 |70|Climbing Stairs|Easy|[Solution](https://github.com/abhishekbhonde/Leetcode-Group/blob/main/Climbing%20Stairs/Solution.cpp)|
 |26|Remove Duplicates from Sorted Array|Easy|[Solution](https://github.com/abhishekbhonde/Leetcode-Group/blob/main/Remove%20Duplicates%20from%20Sorted%20Array/Solution.cpp)|
+|100|Same Tree|Easy|[Solution](https://github.com/abhishekbhonde/Leetcode-Group/blob/main/Same%20Tree/Solution.cpp)|
