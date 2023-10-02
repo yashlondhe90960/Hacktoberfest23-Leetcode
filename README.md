@@ -3,6 +3,8 @@
 ## PYTHON
 ---
 
+### Please check folder structure before contributing
+
 # Hacktoberfest LeetCode Repository
 
 Welcome to the Hacktoberfest LeetCode Repository! We're excited to have you here and appreciate your interest in contributing to this open-source project. This repository is dedicated to solving LeetCode problems, improving algorithmic skills, and participating in the Hacktoberfest event.
