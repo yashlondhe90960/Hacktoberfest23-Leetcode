@@ -1,5 +1,6 @@
-Creating a README file for your Hacktoberfest repository that includes LeetCode problems is a great way to provide guidance and information to contributors. Here's a sample README template you can use:
-
+## JAVA
+## CPP
+## PYTHON
 ---
 
 # Hacktoberfest LeetCode Repository
