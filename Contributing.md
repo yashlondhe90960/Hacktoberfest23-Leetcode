@@ -18,25 +18,25 @@ git clone https://github.com/abhishekbhonde/Leetcode-Group.git
 
 - Navigate to project directory.
 terminal
-cd Hacktoberfest2023-DSA
+``cd Leetcode-Group``
 
 
 - Create a new Branch
 
 markdown
-git checkout -b my-new-branch
+``git checkout -b my-new-branch``
 
 markdown
-git add .
+``git add .``
 
 - Commit your changes.
 
 markdown
-git commit -m "Relevant message"
+``git commit -m "Relevant message"``
 
 - Then push 
 markdown
-git push origin my-new-branch
+``git push origin my-new-branch``
 
 
 
